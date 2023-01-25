@@ -4,8 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Halcyonic
+# Author: IBM
 # Additional Authors:
+# Halcyonic
 
 # Input:
 # p, principal amount
